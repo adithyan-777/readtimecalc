@@ -1,0 +1,117 @@
+readtime,sub_section,subsub_section,url
+39.645,Common web application tools,Using the Django authentication system,https://docs.djangoproject.com/en/5.1/topics/auth/default/
+15.5,Common web application tools,Serializing Django objects,https://docs.djangoproject.com/en/5.1/topics/serialization/
+11.475,Common web application tools,"The , app",https://docs.djangoproject.com/en/5.1/ref/contrib/staticfiles/
+10.865,Common web application tools,The sitemap framework,https://docs.djangoproject.com/en/5.1/ref/contrib/sitemaps/
+10.27,Common web application tools,The messages framework,https://docs.djangoproject.com/en/5.1/ref/contrib/messages/
+3.0,Common web application tools,Pagination,https://docs.djangoproject.com/en/5.1/topics/pagination/
+23.64,Common web application tools,The syndication feed framework,https://docs.djangoproject.com/en/5.1/ref/contrib/syndication/
+17.935,Common web application tools,Sending email,https://docs.djangoproject.com/en/5.1/topics/email/
+10.41,Common web application tools,Logging,https://docs.djangoproject.com/en/5.1/topics/logging/
+36.925,Common web application tools,Django’s cache framework,https://docs.djangoproject.com/en/5.1/topics/cache/
+21.545,Common web application tools,How to use sessions,https://docs.djangoproject.com/en/5.1/topics/http/sessions/
+12.535,Common web application tools,,https://docs.djangoproject.com/en/5.1/ref/contrib/auth/
+28.365,Common web application tools,Customizing authentication in Django,https://docs.djangoproject.com/en/5.1/topics/auth/customizing/
+1.66,Common web application tools,User authentication in Django,https://docs.djangoproject.com/en/5.1/topics/auth/
+18.76,Common web application tools,Password management in Django,https://docs.djangoproject.com/en/5.1/topics/auth/passwords/
+6.9,Common web application tools,Validators,https://docs.djangoproject.com/en/5.1/ref/validators/
+35.915,Forms,The Forms API,https://docs.djangoproject.com/en/5.1/ref/forms/api/
+31.79,Forms,Form fields,https://docs.djangoproject.com/en/5.1/ref/forms/fields/
+20.95,Forms,Widgets,https://docs.djangoproject.com/en/5.1/ref/forms/widgets/
+11.625,Forms,Form and field validation,https://docs.djangoproject.com/en/5.1/ref/forms/validation/
+23.645,Forms,Formsets,https://docs.djangoproject.com/en/5.1/topics/forms/formsets/
+30.475,Forms,Creating forms from models,https://docs.djangoproject.com/en/5.1/topics/forms/modelforms/
+9.545,Forms,"Form Assets (the , class)",https://docs.djangoproject.com/en/5.1/topics/forms/media/
+23.17,Forms,Working with forms,https://docs.djangoproject.com/en/5.1/topics/forms/
+12.48,Other core functionalities,The contenttypes framework,https://docs.djangoproject.com/en/5.1/ref/contrib/contenttypes/
+7.435,Other core functionalities,The flatpages app,https://docs.djangoproject.com/en/5.1/ref/contrib/flatpages/
+7.065,Other core functionalities,System check framework,https://docs.djangoproject.com/en/5.1/topics/checks/
+8.255,Other core functionalities,Signals,https://docs.djangoproject.com/en/5.1/topics/signals/
+11.915,Other core functionalities,The “sites” framework,https://docs.djangoproject.com/en/5.1/ref/contrib/sites/
+2.125,Other core functionalities,The redirects app,https://docs.djangoproject.com/en/5.1/ref/contrib/redirects/
+10.305,Other core functionalities,Unicode data,https://docs.djangoproject.com/en/5.1/ref/unicode/
+6.64,Other core functionalities,Conditional View Processing,https://docs.djangoproject.com/en/5.1/topics/conditional-view-processing/
+9.275,Security,Security in Django,https://docs.djangoproject.com/en/5.1/topics/security/
+13.71,Security,Archive of security issues,https://docs.djangoproject.com/en/5.1/releases/security/
+6.57,Security,Cross Site Request Forgery protection,https://docs.djangoproject.com/en/5.1/ref/csrf/
+2.85,Security,Clickjacking Protection,https://docs.djangoproject.com/en/5.1/ref/clickjacking/
+5.81,Security,Cryptographic signing,https://docs.djangoproject.com/en/5.1/topics/signing/
+2.725,The admin,The Django admin documentation generator,https://docs.djangoproject.com/en/5.1/ref/contrib/admin/admindocs/
+11.065,The admin,Admin actions,https://docs.djangoproject.com/en/5.1/ref/contrib/admin/actions/
+79.36,The admin,The Django admin site,https://docs.djangoproject.com/en/5.1/ref/contrib/admin/
+10.27,The development process,Writing and running tests,https://docs.djangoproject.com/en/5.1/topics/testing/overview/
+11.975,The development process,Applications,https://docs.djangoproject.com/en/5.1/ref/applications/
+6.47,The development process,Django settings,https://docs.djangoproject.com/en/5.1/topics/settings/
+62.855,The development process,Settings,https://docs.djangoproject.com/en/5.1/ref/settings/
+20.85,The development process,Advanced testing topics,https://docs.djangoproject.com/en/5.1/topics/testing/advanced/
+5.05,The development process,Django Exceptions,https://docs.djangoproject.com/en/5.1/ref/exceptions/
+8.68,The development process,"How to create custom , commands",https://docs.djangoproject.com/en/5.1/howto/custom-management-commands/
+1.0,The development process,Testing in Django,https://docs.djangoproject.com/en/5.1/topics/testing/
+53.53,The development process,Testing tools,https://docs.djangoproject.com/en/5.1/topics/testing/tools/
+1.905,The development process,How to deploy with WSGI,https://docs.djangoproject.com/en/5.1/howto/deployment/wsgi/
+1.475,The development process,How to deploy Django,https://docs.djangoproject.com/en/5.1/howto/deployment/
+43.08,The development process," and ,Running management commands from your code",https://docs.djangoproject.com/en/5.1/ref/django-admin/
+8.8,The development process,How to manage error reporting,https://docs.djangoproject.com/en/5.1/howto/error-reporting/
+3.17,The development process,How to deploy static files,https://docs.djangoproject.com/en/5.1/howto/static-files/deployment/
+6.09,The development process,Deployment checklist,https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
+1.755,The development process,How to deploy with ASGI,https://docs.djangoproject.com/en/5.1/howto/deployment/asgi/
+4.465,The model layer,Model index reference,https://docs.djangoproject.com/en/5.1/ref/models/indexes/
+57.55,The model layer,"Model field reference,Field attribute reference",https://docs.djangoproject.com/en/5.1/ref/models/fields/
+10.42,The model layer,"Model , options",https://docs.djangoproject.com/en/5.1/ref/models/options/
+5.38,The model layer,Related objects reference,https://docs.djangoproject.com/en/5.1/ref/models/relations/
+1.19,The model layer,Model class reference,https://docs.djangoproject.com/en/5.1/ref/models/class/
+26.135,The model layer,Migrations,https://docs.djangoproject.com/en/5.1/topics/migrations/
+2.31,The model layer,How to provide initial data for models,https://docs.djangoproject.com/en/5.1/howto/initial-data/
+1.815,The model layer,How to integrate Django with a legacy database,https://docs.djangoproject.com/en/5.1/howto/legacy-databases/
+48.44,The model layer,Making queries,https://docs.djangoproject.com/en/5.1/topics/db/queries/
+11.7,The model layer,Database access optimization,https://docs.djangoproject.com/en/5.1/topics/db/optimization/
+26.045,The model layer,Model instance reference,https://docs.djangoproject.com/en/5.1/ref/models/instances/
+1.39,The model layer,,https://docs.djangoproject.com/en/5.1/ref/contrib/postgres/
+5.4,The model layer,Lookup API reference,https://docs.djangoproject.com/en/5.1/ref/models/lookups/
+39.805,The model layer,Models,https://docs.djangoproject.com/en/5.1/topics/db/models/
+22.045,The model layer,How to create custom model fields,https://docs.djangoproject.com/en/5.1/howto/custom-model-fields/
+4.135,The model layer,Search,https://docs.djangoproject.com/en/5.1/topics/db/search/
+8.215,The model layer,Conditional Expressions,https://docs.djangoproject.com/en/5.1/ref/models/conditional-expressions/
+34.63,The model layer,Query Expressions,https://docs.djangoproject.com/en/5.1/ref/models/expressions/
+9.39,The model layer,How to write custom lookups,https://docs.djangoproject.com/en/5.1/howto/custom-lookups/
+18.445,The model layer,Aggregation,https://docs.djangoproject.com/en/5.1/topics/db/aggregation/
+45.255,The model layer,Database Functions,https://docs.djangoproject.com/en/5.1/ref/models/database-functions/
+18.085,The model layer,Database transactions,https://docs.djangoproject.com/en/5.1/topics/db/transactions/
+10.63,The model layer,Performing raw SQL queries,https://docs.djangoproject.com/en/5.1/topics/db/sql/
+10.61,The model layer,Managers,https://docs.djangoproject.com/en/5.1/topics/db/managers/
+9.01,The model layer,How to create database migrations,https://docs.djangoproject.com/en/5.1/howto/writing-migrations/
+4.295,The model layer,,https://docs.djangoproject.com/en/5.1/ref/schema-editor/
+15.99,The model layer,Migration Operations,https://docs.djangoproject.com/en/5.1/ref/migration-operations/
+26.695,The model layer,Databases,https://docs.djangoproject.com/en/5.1/ref/databases/
+103.72,The model layer, API reference,https://docs.djangoproject.com/en/5.1/ref/models/querysets/
+20.67,The model layer,Multiple databases,https://docs.djangoproject.com/en/5.1/topics/db/multi-db/
+3.845,The template layer,How to implement a custom template backend,https://docs.djangoproject.com/en/5.1/howto/custom-template-backend/
+31.805,The template layer,How to create custom template tags and filters,https://docs.djangoproject.com/en/5.1/howto/custom-template-tags/
+23.67,The template layer,The Django template language: for Python programmers,https://docs.djangoproject.com/en/5.1/ref/templates/api/
+2.615,The template layer,,https://docs.djangoproject.com/en/5.1/ref/contrib/humanize/
+54.935,The template layer,Built-in template tags and filters,https://docs.djangoproject.com/en/5.1/ref/templates/builtins/
+13.86,The template layer,Templates,https://docs.djangoproject.com/en/5.1/topics/templates/
+18.88,The template layer,The Django template language,https://docs.djangoproject.com/en/5.1/ref/templates/language/
+4.935,The view layer,Form handling with class-based views,https://docs.djangoproject.com/en/5.1/topics/class-based-views/generic-editing/
+13.705,The view layer,Middleware,https://docs.djangoproject.com/en/5.1/ref/middleware/
+2.8,The view layer,How to create PDF files,https://docs.djangoproject.com/en/5.1/howto/outputting-pdf/
+10.97,The view layer,Middleware,https://docs.djangoproject.com/en/5.1/topics/http/middleware/
+4.75,The view layer,Class-based generic views - flattened index,https://docs.djangoproject.com/en/5.1/ref/class-based-views/flattened-index/
+4.355,The view layer,How to create CSV output,https://docs.djangoproject.com/en/5.1/howto/outputting-csv/
+22.38,The view layer,URL dispatcher,https://docs.djangoproject.com/en/5.1/topics/http/urls/
+5.355,The view layer,Writing views,https://docs.djangoproject.com/en/5.1/topics/http/views/
+11.665,The view layer,Built-in class-based generic views,https://docs.djangoproject.com/en/5.1/topics/class-based-views/generic-display/
+4.915,The view layer,Django shortcut functions,https://docs.djangoproject.com/en/5.1/topics/http/shortcuts/
+2.965,The view layer,View decorators,https://docs.djangoproject.com/en/5.1/topics/http/decorators/
+10.64,The view layer,Asynchronous support,https://docs.djangoproject.com/en/5.1/topics/async/
+4.04,The view layer,Built-in Views,https://docs.djangoproject.com/en/5.1/ref/views/
+29.22,The view layer,Request and response objects,https://docs.djangoproject.com/en/5.1/ref/request-response/
+6.445,The view layer, and ,https://docs.djangoproject.com/en/5.1/ref/template-response/
+1.935,The view layer,Built-in class-based views API,https://docs.djangoproject.com/en/5.1/ref/class-based-views/
+5.96,The view layer,Managing files,https://docs.djangoproject.com/en/5.1/topics/files/
+3.54,The view layer,How to write a custom storage class,https://docs.djangoproject.com/en/5.1/howto/custom-file-storage/
+3.08,The view layer,"The , object",https://docs.djangoproject.com/en/5.1/ref/files/file/
+5.01,The view layer,File storage API,https://docs.djangoproject.com/en/5.1/ref/files/storage/
+16.66,The view layer,Using mixins with class-based views,https://docs.djangoproject.com/en/5.1/topics/class-based-views/mixins/
+4.005,The view layer,Class-based views,https://docs.djangoproject.com/en/5.1/topics/class-based-views/
+8.315,The view layer,File Uploads,https://docs.djangoproject.com/en/5.1/topics/http/file-uploads/
