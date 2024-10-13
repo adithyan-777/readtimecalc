@@ -1,5 +1,6 @@
 from pathlib import Path
-from ..utils import calc_readtime
+from docreader.items import DocreaderItem
+from docreader.utils import calc_readtime
 
 import scrapy
 
@@ -29,7 +30,18 @@ class QuotesSpider(scrapy.Spider):
             subsub_section_urls = sub_section.xpath(".//ul/li/a/@href").getall()
             sub_section_text = sub_section.xpath('.//h2/text()').getall()
             if sub_section_text[0] in required_sections:
-                yield from response.follow_all([f"{base_url}{link}" for link in subsub_section_urls], self.parse_sub)
+                yield from response.follow_all(
+                    [f"{base_url}{link}" for link in subsub_section_urls],
+                    self.parse_sub, meta={"sub_section_name": sub_section_text[0]}
+                )
     
     def parse_sub(self, response):
-        pass
+        subsub_section_name = response.xpath("//div[@id='docs-content']//h1/text()").extract()
+        readtime = calc_readtime(response)
+        sub_section_name = response.meta.get("sub_section_name")
+        item = DocreaderItem()
+        item["sub_section"] = sub_section_name
+        item["subsub_section"] = subsub_section_name
+        item["readtime"] = readtime
+        item["url"] = response.url
+        yield item

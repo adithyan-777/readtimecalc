@@ -8,5 +8,7 @@ import scrapy
 
 class DocreaderItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    sub_section = scrapy.Field()
+    subsub_section = scrapy.Field()
+    readtime = scrapy.Field()
+    url = scrapy.Field()

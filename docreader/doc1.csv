@@ -1,0 +1,117 @@
+readtime,sub_section,subsub_section
+39.805,The model layer,Models
+2.31,The model layer,How to provide initial data for models
+1.39,The model layer,
+11.7,The model layer,Database access optimization
+10.64,The view layer,Asynchronous support
+2.965,The view layer,View decorators
+1.815,The model layer,How to integrate Django with a legacy database
+26.695,The model layer,Databases
+45.255,The model layer,Database Functions
+8.215,The model layer,Conditional Expressions
+4.915,The view layer,Django shortcut functions
+9.39,The model layer,How to write custom lookups
+34.63,The model layer,Query Expressions
+20.67,The model layer,Multiple databases
+10.305,Other core functionalities,Unicode data
+11.915,Other core functionalities,The “sites” framework
+8.255,Other core functionalities,Signals
+7.065,Other core functionalities,System check framework
+2.125,Other core functionalities,The redirects app
+12.48,Other core functionalities,The contenttypes framework
+7.435,Other core functionalities,The flatpages app
+6.64,Other core functionalities,Conditional View Processing
+6.9,Common web application tools,Validators
+10.865,Common web application tools,The sitemap framework
+11.475,Common web application tools,"The , app"
+21.545,Common web application tools,How to use sessions
+15.5,Common web application tools,Serializing Django objects
+10.27,Common web application tools,The messages framework
+3.0,Common web application tools,Pagination
+17.935,Common web application tools,Sending email
+23.64,Common web application tools,The syndication feed framework
+10.41,Common web application tools,Logging
+36.925,Common web application tools,Django’s cache framework
+12.535,Common web application tools,
+28.365,Common web application tools,Customizing authentication in Django
+39.645,Common web application tools,Using the Django authentication system
+18.76,Common web application tools,Password management in Django
+5.81,Security,Cryptographic signing
+1.66,Common web application tools,User authentication in Django
+5.355,The view layer,Writing views
+6.57,Security,Cross Site Request Forgery protection
+22.38,The view layer,URL dispatcher
+2.85,Security,Clickjacking Protection
+9.275,Security,Security in Django
+13.71,Security,Archive of security issues
+11.065,The admin,Admin actions
+2.725,The admin,The Django admin documentation generator
+8.8,The development process,How to manage error reporting
+6.09,The development process,Deployment checklist
+1.905,The development process,How to deploy with WSGI
+1.755,The development process,How to deploy with ASGI
+3.17,The development process,How to deploy static files
+79.36,The admin,The Django admin site
+1.475,The development process,How to deploy Django
+20.85,The development process,Advanced testing topics
+10.27,The development process,Writing and running tests
+43.08,The development process," and ,Running management commands from your code"
+1.0,The development process,Testing in Django
+8.68,The development process,"How to create custom , commands"
+5.05,The development process,Django Exceptions
+53.53,The development process,Testing tools
+11.975,The development process,Applications
+62.855,The development process,Settings
+11.625,Forms,Form and field validation
+6.47,The development process,Django settings
+23.645,Forms,Formsets
+9.545,Forms,"Form Assets (the , class)"
+30.475,Forms,Creating forms from models
+35.915,Forms,The Forms API
+31.79,Forms,Form fields
+3.845,The template layer,How to implement a custom template backend
+23.17,Forms,Working with forms
+20.95,Forms,Widgets
+31.805,The template layer,How to create custom template tags and filters
+23.67,The template layer,The Django template language: for Python programmers
+18.88,The template layer,The Django template language
+54.935,The template layer,Built-in template tags and filters
+2.615,The template layer,
+13.86,The template layer,Templates
+13.705,The view layer,Middleware
+10.97,The view layer,Middleware
+4.355,The view layer,How to create CSV output
+2.8,The view layer,How to create PDF files
+4.75,The view layer,Class-based generic views - flattened index
+1.935,The view layer,Built-in class-based views API
+16.66,The view layer,Using mixins with class-based views
+4.935,The view layer,Form handling with class-based views
+11.665,The view layer,Built-in class-based generic views
+4.005,The view layer,Class-based views
+5.96,The view layer,Managing files
+3.54,The view layer,How to write a custom storage class
+8.315,The view layer,File Uploads
+3.08,The view layer,"The , object"
+5.01,The view layer,File storage API
+6.445,The view layer, and 
+29.22,The view layer,Request and response objects
+4.04,The view layer,Built-in Views
+4.135,The model layer,Search
+22.045,The model layer,How to create custom model fields
+10.63,The model layer,Performing raw SQL queries
+18.085,The model layer,Database transactions
+18.445,The model layer,Aggregation
+10.61,The model layer,Managers
+9.01,The model layer,How to create database migrations
+4.295,The model layer,
+26.135,The model layer,Migrations
+15.99,The model layer,Migration Operations
+26.045,The model layer,Model instance reference
+5.4,The model layer,Lookup API reference
+5.38,The model layer,Related objects reference
+1.19,The model layer,Model class reference
+48.44,The model layer,Making queries
+10.42,The model layer,"Model , options"
+4.465,The model layer,Model index reference
+103.72,The model layer, API reference
+57.55,The model layer,"Model field reference,Field attribute reference"
